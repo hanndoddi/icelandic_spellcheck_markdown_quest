@@ -6,9 +6,11 @@ A search for the best spell checking tools for the Icelandic language
 
 I frequently use markdown to document, project manage and plan things. Having a good spell checker is essential since I have no problem making spelling errors.
 Of all the editors out there, [Marktext](https://www.marktext.cc/) has become a favorite. It comes with a nice English spell check but is lacking the Icelandic language.
+Marktext both has a hunspell and system spell checker for Windows and macOS but the Icelandic languages package does not work. 
 For way too long have I just copied the text in and out of google drive to do the spell check so I want to find another way.
 
 ## Research
+I did a Quick search on the internet for hunspell, .aff, .dic and .bdic and almost everything I found was about 5 years old. Including interviews on [RÚV](https://www.ruv.is/frettir/innlent/vantar-rafraen-gogn-um-islenska-tungu) talking about the lack of data for the Icelandic language. I’m not sure if that’s because we just gave up or there is something new out there.
 
 I found out that the markdown editor that I was using [Ghostwriter](https://ghostwriter.kde.org/) and [Typora](https://typora.io/) were using **.aff** and **.dic** for their spell checking. Below is a table of the **.aff** and **.dic** files I found online.
 
