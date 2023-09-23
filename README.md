@@ -3,18 +3,18 @@ A search for the best spell checking tools for the Icelandic language
 
 ![is_ISbdic](is_bdic.png)
 
-Frequently using markdown to document and plan things. Having a good spell checker is essential since I have no problem making spelling errors.
-Of all the editors out there, marktext has become a favorite. It comes with a nice English spell check but is lacking the Icelandic language.
+I frequently use markdown to document, project manage and plan things. Having a good spell checker is essential since I have no problem making spelling errors.
+Of all the editors out there, [Marktext](https://www.marktext.cc/) has become a favorite. It comes with a nice English spell check but is lacking the Icelandic language.
 For way too long have I just copied the text in and out of google drive to do the spell check so I want to find another way.
 
 ## Research
-I found out that the markdown editor that I was using Ghostwriter and Typora were using .aff and .dic for their spell checking. Below is a table of the .aff and .dic files I found online.
+I found out that the markdown editor that I was using [Ghostwriter](https://ghostwriter.kde.org/) and [Typora](https://typora.io/) were using .aff and .dic for their spell checking. Below is a table of the .aff and .dic files I found online.
 
-| name                                                   | note                                                        |
-| ------------------------------------------------------ | ----------------------------------------------------------- |
-| Libre office                                           | worked fine for ghostwrited but not when converted to .bdic |
-| [hunspell-is](https://github.com/nifgraup/hunspell-is) | Couldn't figure out how to use it                           |
-| []()                                                   | Used to make the .bdic                                      |
+| name                                                                       | note                                                        |
+| ------------------------------------------------------                     | ----------------------------------------------------------- |
+| [titoBouzout/Dictionaries](https://github.com/titoBouzout/Dictionaries)    | worked fine for ghostwrited but not when converted to .bdic |
+| [hunspell-is](https://github.com/nifgraup/hunspell-is)                     | Couldn't figure out how to use it                           |
+| [LibreOffice](https://github.com/LibreOffice/dictionaries/tree/master/is)  | Used to make the .bdic                                      |
 
 ### formats and terms
 - [Hunspell](https://en.wikipedia.org/wiki/Hunspell) : Spell checker
