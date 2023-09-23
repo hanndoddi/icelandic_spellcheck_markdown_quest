@@ -45,4 +45,8 @@ It works well now It's missing some words but I can add them over time and Markt
 
 ![add_json.png](images/add_json.png)
 
+
 ![spellcheck_working.png](images/spellcheck_working.png)
+
+
+![spellcheck_working.png](images/is_bdic.png)
