@@ -28,6 +28,8 @@ I found out that the markdown editor that I was using [Ghostwriter](https://ghos
 
 ## The build
 
+![bdic_gen.png](images\bdic_gen.png)
+
 After being unsuccessful in finding a **.bdic** file for Marktext I found a generator that makes one from **.aff**, **.dic** and **.dic_delta**. I couldn't find or understand the **.dic_delta** and it generated the file even if it was missing. I had to do it using Linux and it was well documented and I didn't have any troubles.
 
 [convert-dict-tool-from-chromium](https://github.com/jankelemen/convert-dict-tool-from-chromium)
@@ -35,8 +37,12 @@ After being unsuccessful in finding a **.bdic** file for Marktext I found a gene
 To add it to Marktext simply add it to the dictionary folder and change the spell settings to use hunspell.
 C:\Users\%user%\AppData\Roaming\marktext\dictionaries
 
+![bdic_file.png](images\bdic_file.png)
+
 ## Conclusion
 
 It works well now It's missing some words but I can add them over time and Marktext generates a **.json** file so it's easy to keep track of it and I might update it here from time to time. 
 
+![add_json.png](images\add_json.png)
 
+![spellcheck_working.png](images\spellcheck_working.png)
