@@ -1,6 +1,6 @@
 # icelandic_spellcheck_markdown_quest
 
-A search for the best spell checking tools for the Icelandic language
+A search for the best spell checking tools for the Icelandic language.
 
 ![is_ISbdic](is_bdic.png)
 
